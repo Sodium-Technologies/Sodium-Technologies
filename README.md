@@ -3,7 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?width=640&format=mp4&s=4f5db225fcb9d8f63a6adf037b35064dba12aea1">
 <p align="left"> <img src="https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?width=640&format=mp4&s=4f5db225fcb9d8f63a6adf037b35064dba12aea1" alt="sodium-technologies" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sodium-technologies" alt="sodium-technologies" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, Next.js, TypeScript**
 
