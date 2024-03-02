@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveed Ahmed Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 <img align="right" alt="coding" width="400" src="https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?width=640&format=mp4&s=4f5db225fcb9d8f63a6adf037b35064dba12aea1">
-
+<iframe src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 🌱 I’m currently learning **ReactJs, Next.js, TypeScript**
 
